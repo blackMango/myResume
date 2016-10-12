@@ -78,6 +78,7 @@
 	background-image:url(../images/5.jpg);
 	background-repeat:no-repeat;
 	//background-size: cover;
+	width: 100%;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
