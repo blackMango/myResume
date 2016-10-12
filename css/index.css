@@ -85,7 +85,7 @@
 .section2 {
 	background-image:url(../images/4.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
@@ -93,7 +93,7 @@
 .section3 {
 	background-image:url(../images/7.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: 100%;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
@@ -101,7 +101,7 @@
 .section4 {
 	background-image:url(../images/8.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: contain;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
@@ -109,7 +109,7 @@
 .section5 {
 	background-image:url(../images/6.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
@@ -117,7 +117,7 @@
 .section6 {
 	background-image:url(../images/1.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	opacity:0.9;
 	filter:alpha(opacity = 90);
 	background-color:#fff;
