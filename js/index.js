@@ -7,6 +7,7 @@ $(function(){
 		navigationPosition:'right',
 		loopBottom:true,
 		loopTop:true,
+		navigationColor:#0e0056,
 		afterLoad: function(anchorLink, index){
 			if(index == 2){
 				$('.section2').find('p').delay(500).animate({
