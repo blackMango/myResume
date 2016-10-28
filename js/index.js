@@ -48,7 +48,7 @@ $(function(){
 			}
 		}
 	});
-	$('.section5 .works .worksbg').dblclick(function(){
+	$('.section5 .works .worksbg').mouseenter(function(){
 	 	$(this).find('hgroup').fadeIn(1000);
 	 	$(this).find('h4').fadeOut(1000);
 	}).mouseleave(function(){
